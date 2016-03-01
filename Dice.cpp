@@ -9,5 +9,5 @@ Dice::Dice()
 
 
 Dice::~Dice()
-{
+{i
 }
